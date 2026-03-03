@@ -10,7 +10,7 @@ void exercise1();
 void exercise4();
 
 int main() {
-    setlocale(LC_ALL, "Russian"); // <--- ВЕРНУЛ: Важно для русского языка в консоли
+    setlocale(LC_ALL, "Russian"); 
 
     exercise1();
 
