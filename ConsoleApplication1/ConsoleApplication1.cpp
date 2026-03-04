@@ -12,11 +12,6 @@ int main() {
     setlocale(LC_ALL, "Russian"); 
 
     exercise1();
-
-    cout << endl;
-    cin.ignore();
-    cin.get();
-
     exercise4();
 
     return 0;
